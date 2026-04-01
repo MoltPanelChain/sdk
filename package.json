@@ -1,0 +1,14 @@
+{
+  "name": "moltpanel",
+  "version": "1.0.0",
+  "description": "Production-grade security firewall for AI agents",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "node tests/firewall.test.js"
+  },
+  "keywords": ["ai", "security", "firewall", "prompt-filter"],
+  "author": "your-name",
+  "license": "MIT"
+}
